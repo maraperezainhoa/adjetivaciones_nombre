@@ -1,5 +1,8 @@
-# 1. Instalar dependencias
-pip install -r requirements.txt
-
-# 2. Ejecutar
-streamlit run app.py
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.DS_Store
+venv/
+*.egg-info/
+dist/
+build/

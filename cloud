@@ -1,0 +1,7 @@
+# 1. Sube a GitHub
+git add .
+git commit -m "Add PDF support"
+git push
+
+# 2. En Streamlit Cloud conecta tu repo
+# ¡Listo! Tu app estará pública
